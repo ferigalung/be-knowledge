@@ -1,4 +1,4 @@
-#RPC (Remote Procedural Call) adalah istilah untuk metode memanggil function dari komputer / server lain, singkatnya RPC adalah sebutan untuk fetching data dari API
+### RPC (Remote Procedural Call) adalah istilah untuk metode memanggil function dari komputer / server lain, singkatnya RPC adalah sebutan untuk fetching data dari API
 
 - JSON-RPC
     - fetching data dari API yang me-return data dalam bentuk JSON (API yang biasa dipake selama ini atau REST-API)
